@@ -39,4 +39,4 @@ createPost({title: 'Post three', body: 'This is post three'})
 .then(getPosts)
 .catch((err) => {
   console.log(err);
-})
+});
