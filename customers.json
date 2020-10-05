@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "company": "Jungle",
+    "phone": "555-555-555"
+  },
+  {
+    "id": 2,
+    "name": "Jane Doe",
+    "company": "Jungle",
+    "phone": "666-666-666"
+  },
+  {
+    "id": 3,
+    "name": "Vhore",
+    "company": "Fields",
+    "phone": "777-777-777"
+  },
+  {
+    "id": 4,
+    "name": "Gambit",
+    "company": "Jungle",
+    "phone": "888-888-888"
+  },
+  {
+    "id": 5,
+    "name": "June",
+    "company": "Jungle",
+    "phone": "999-999-999"
+  }
+]
